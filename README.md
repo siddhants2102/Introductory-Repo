@@ -1,2 +1,2 @@
 # INTRODUCTORY REPO
-A Repository foR EXTRA WORK.
+A Repository for extra work .
