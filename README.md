@@ -1,2 +1,2 @@
-# CODSOFT
-A Repository for codsoft internship work.
+# INTRODUCTORY REPO
+A Repository foR EXTRA WORK.
